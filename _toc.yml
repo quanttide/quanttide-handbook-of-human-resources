@@ -6,6 +6,7 @@ parts:
       - file: recuirting/README.md
         sections:
           - file: recuirting/onboarding.md
+          - file: recuirting/resigning.md
   - caption: 附录
     chapters:
       - file: appendix/recruitment_questionare.md
