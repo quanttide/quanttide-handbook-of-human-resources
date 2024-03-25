@@ -1,11 +1,11 @@
 format: jb-book
 root: index.md
 parts:
-  - caption: 六职能
+  - caption: 人力资源伙伴
     chapters:
-      - file: recuirting/README.md
+      - file: hrbp/recuirting/README.md
         sections:
-          - file: recuirting/onboarding.md
-  - caption: 附录
+          - file: hrbp/recuirting/onboarding.md
+  - caption: 人力资源制度
     chapters:
-      - file: appendix/recruitment_questionare.md
+      - file: coe/organizations/README.md
