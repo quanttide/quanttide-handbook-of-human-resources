@@ -6,8 +6,13 @@ parts:
       - file: hrbp/planning/README.md
       - file: hrbp/recuirting/README.md
         sections:
+          - file: hrbp/recuirting/interviewing.md
+          - file: hrbp/recuirting/refusing.md
           - file: hrbp/recuirting/onboarding.md
-          - file: hrbp/recuirting/resigning.md
+          - file: hrbp/recuirting/resigning/README.md
+            sections:
+              - file: hrbp/recuirting/resigning/involuntary_separation.md
+              - file: hrbp/recuirting/resigning/processes.md
       - file: hrbp/training/README.md
         sections:
           - file: hrbp/training/checklists/README.md
@@ -29,4 +34,8 @@ parts:
       - file: coe/organizations/README.md
         sections:
           - file: coe/organizations/committees.md
+      - file: coe/employees/README.md
       - file: coe/ranks/README.md
+        sections:
+          - file: coe/ranks/series.md
+          - file: coe/ranks/levels.md
