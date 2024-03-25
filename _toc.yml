@@ -6,6 +6,7 @@ parts:
       - file: hrbp/recuirting/README.md
         sections:
           - file: hrbp/recuirting/onboarding.md
-  - caption: 人力资源制度
+          - file: hrbp/recuirting/resigning.md
+  - caption: 附录
     chapters:
       - file: coe/organizations/README.md
