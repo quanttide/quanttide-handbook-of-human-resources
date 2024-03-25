@@ -7,6 +7,9 @@ parts:
         sections:
           - file: hrbp/recuirting/onboarding.md
           - file: hrbp/recuirting/resigning.md
-  - caption: 附录
+  - caption: 人力资源共享中心
+    chapters:
+      - file: ssc/profiles/README.md
+  - caption: 人力资源制度
     chapters:
       - file: coe/organizations/README.md
