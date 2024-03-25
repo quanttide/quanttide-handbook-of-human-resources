@@ -4,6 +4,8 @@ parts:
   - caption: 人力资源伙伴
     chapters:
       - file: hrbp/planning/README.md
+        sections:
+          - file: hrbp/planning/job_descriptions.md
       - file: hrbp/recuirting/README.md
         sections:
           - file: hrbp/recuirting/interviewing.md
