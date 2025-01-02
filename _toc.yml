@@ -12,8 +12,6 @@ parts:
   - caption: 职能
     chapters:
       - file: functions/planning/README.md
-        sections:
-          - file: functions/planning/job_descriptions.md
       - file: functions/recuirting/README.md
         sections:
           - file: functions/recuirting/interviewing.md
