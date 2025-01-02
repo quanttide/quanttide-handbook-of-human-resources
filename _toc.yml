@@ -1,43 +1,37 @@
 format: jb-book
 root: index.md
 parts:
-  - caption: 人力资源伙伴
+  - caption: 制度
     chapters:
-      - file: hrbp/planning/README.md
+      - file: institutions/ranks/README.md
         sections:
-          - file: hrbp/planning/job_descriptions.md
-      - file: hrbp/recuirting/README.md
+          - file: institutions/ranks/series.md
+          - file: institutions/ranks/levels.md
+      - file: institutions/positions/README.md
+  - caption: 职能
+    chapters:
+      - file: functions/planning/README.md
         sections:
-          - file: hrbp/recuirting/interviewing.md
-          - file: hrbp/recuirting/refusing.md
-          - file: hrbp/recuirting/onboarding.md
-          - file: hrbp/recuirting/resigning/README.md
+          - file: functions/planning/job_descriptions.md
+      - file: functions/recuirting/README.md
+        sections:
+          - file: functions/recuirting/interviewing.md
+          - file: functions/recuirting/refusing.md
+          - file: functions/recuirting/onboarding.md
+          - file: functions/recuirting/resigning/README.md
             sections:
-              - file: hrbp/recuirting/resigning/involuntary_separation.md
-              - file: hrbp/recuirting/resigning/processes.md
-      - file: hrbp/training/README.md
+              - file: functions/recuirting/resigning/involuntary_separation.md
+              - file: functions/recuirting/resigning/processes.md
+      - file: functions/training/README.md
         sections:
-          - file: hrbp/training/checklists/README.md
+          - file: functions/training/checklists/README.md
             sections:
-              - file: hrbp/training/checklists/general.md
-              - file: hrbp/training/checklists/tech.md
-              - file: hrbp/training/checklists/product.md
-              - file: hrbp/training/checklists/sales.md
-              - file: hrbp/training/checklists/functional.md
-              - file: hrbp/training/checklists/manager.md
-      - file: hrbp/performing/README.md
-      - file: hrbp/remunerating/README.md
-      - file: hrbp/employee_relations/README.md
-  - caption: 人力资源共享中心
-    chapters:
-      - file: ssc/profiles/README.md
-  - caption: 人力资源制度
-    chapters:
-      - file: coe/organizations/README.md
-        sections:
-          - file: coe/organizations/committees.md
-      - file: coe/employees/README.md
-      - file: coe/ranks/README.md
-        sections:
-          - file: coe/ranks/series.md
-          - file: coe/ranks/levels.md
+              - file: functions/training/checklists/general.md
+              - file: functions/training/checklists/tech.md
+              - file: functions/training/checklists/product.md
+              - file: functions/training/checklists/sales.md
+              - file: functions/training/checklists/functional.md
+              - file: functions/training/checklists/manager.md
+      - file: functions/performing/README.md
+      - file: functions/remunerating/README.md
+      - file: functions/employee_relations/README.md
