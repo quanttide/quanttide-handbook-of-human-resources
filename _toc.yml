@@ -5,8 +5,9 @@ parts:
     chapters:
       - file: institutions/ranks/README.md
         sections:
-          - file: institutions/ranks/series.md
-          - file: institutions/ranks/levels.md
+          - file: institutions/ranks/business_entity.md
+          - file: institutions/ranks/internship_base.md
+          - file: institutions/ranks/ra_groups.md
       - file: institutions/positions/README.md
   - caption: 职能
     chapters:
