@@ -25,7 +25,7 @@ parts:
               - file: functions/training/checklists/manager.md
       - file: functions/performing/README.md
       - file: functions/remunerating/README.md
-      - file: functions/employee_relations/README.md
+      - file: functions/relating/README.md
   - caption: 三支柱
     chapters:
       - file: pillars/hrbp/README.md
