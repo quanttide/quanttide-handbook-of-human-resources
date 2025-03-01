@@ -1,15 +1,7 @@
 format: jb-book
 root: index.md
 parts:
-  - caption: 制度
-    chapters:
-      - file: institutions/ranks/README.md
-        sections:
-          - file: institutions/ranks/business_entity.md
-          - file: institutions/ranks/internship_base.md
-          - file: institutions/ranks/ra_groups.md
-      - file: institutions/positions/README.md
-  - caption: 职能
+  - caption: 六职能
     chapters:
       - file: functions/planning/README.md
       - file: functions/recuirting/README.md
@@ -34,3 +26,8 @@ parts:
       - file: functions/performing/README.md
       - file: functions/remunerating/README.md
       - file: functions/employee_relations/README.md
+  - caption: 三支柱
+    chapters:
+      - file: pillars/hrbp/README.md
+      - file: pillars/ssc/README.md
+      - file: pillars/coe/README.md
