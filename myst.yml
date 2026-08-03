@@ -1,0 +1,29 @@
+version: 1
+project:
+  title: 量潮人力资源管理手册
+  author: 量潮科技
+  toc:
+    - file: index.md
+    - title: 六职能
+      children:
+        - file: plan/README.md
+        - file: recruitment/README.md
+          children:
+            - file: recruitment/interview.md
+            - file: recruitment/refusal.md
+            - file: recruitment/onboarding.md
+            - file: recruitment/resignation/README.md
+              children:
+                - file: recruitment/resignation/involuntary_separation.md
+                - file: recruitment/resignation/processes.md
+        - file: training/index.md
+          children:
+            - file: training/business-as-textbook.md
+            - file: training/framework-first.md
+            - file: training/progressive-delegation.md
+            - file: training/ai-scaffolding.md
+            - file: training/teaching-others.md
+            - file: training/staged-training.md
+        - file: performance/README.md
+        - file: remuneration/README.md
+        - file: relations/README.md
