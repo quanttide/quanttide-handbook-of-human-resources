@@ -3,31 +3,26 @@ root: index.md
 parts:
   - caption: 六职能
     chapters:
-      - file: functions/planning/README.md
-      - file: functions/recuirting/README.md
+      - file: functions/plan/README.md
+      - file: functions/recruitment/README.md
         sections:
-          - file: functions/recuirting/interviewing.md
-          - file: functions/recuirting/refusing.md
-          - file: functions/recuirting/onboarding.md
-          - file: functions/recuirting/resigning/README.md
+          - file: functions/recruitment/interview.md
+          - file: functions/recruitment/refusal.md
+          - file: functions/recruitment/onboarding.md
+          - file: functions/recruitment/resignation/README.md
             sections:
-              - file: functions/recuirting/resigning/involuntary_separation.md
-              - file: functions/recuirting/resigning/processes.md
+              - file: functions/recruitment/resignation/involuntary_separation.md
+              - file: functions/recruitment/resignation/processes.md
       - file: functions/training/README.md
         sections:
-          - file: functions/training/checklists/README.md
+          - file: functions/training/curricula/README.md
             sections:
-              - file: functions/training/checklists/general.md
-              - file: functions/training/checklists/tech.md
-              - file: functions/training/checklists/product.md
-              - file: functions/training/checklists/sales.md
-              - file: functions/training/checklists/functional.md
-              - file: functions/training/checklists/manager.md
-      - file: functions/performing/README.md
-      - file: functions/remunerating/README.md
-      - file: functions/relating/README.md
-  - caption: 三支柱
-    chapters:
-      - file: pillars/hrbp/README.md
-      - file: pillars/ssc/README.md
-      - file: pillars/coe/README.md
+              - file: functions/training/curricula/general.md
+              - file: functions/training/curricula/tech.md
+              - file: functions/training/curricula/product.md
+              - file: functions/training/curricula/sales.md
+              - file: functions/training/curricula/functional.md
+              - file: functions/training/curricula/manager.md
+      - file: functions/performance/README.md
+      - file: functions/remuneration/README.md
+      - file: functions/relations/README.md
