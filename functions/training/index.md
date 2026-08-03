@@ -35,3 +35,12 @@
 新人重思考习惯，骨干重经营意识，高管重机制建设；同一套方法不能同时用于新人和高管，节奏不可颠倒。批评直接但给方法，责任有边界。
 
 > 注：核心思想总结自公司人才培养实践案例（详见案例集培训目录），用于指导培训的内容设计、带教安排与晋升考核。
+
+## 具体方法
+
+- [以真实业务为教材](business-as-textbook.md)
+- [授之以渔：先给框架](framework-first.md)
+- [渐进式授权](progressive-delegation.md)
+- [AI 是思考的脚手架](ai-scaffolding.md)
+- [培养的终点是"教别人干"](teaching-others.md)
+- [按阶段一人一策](staged-training.md)
