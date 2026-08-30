@@ -25,5 +25,7 @@ project:
             - file: training/teaching-others.md
             - file: training/staged-training.md
         - file: performance/README.md
-        - file: remuneration/README.md
+        - file: remuneration/index.md
+          children:
+            - file: remuneration/sales-commission.md
         - file: relations/README.md
